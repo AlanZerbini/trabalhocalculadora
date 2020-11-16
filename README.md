@@ -1,2 +1,2 @@
-# trabalhocalculadora
-Calculadora simples usando HTML, CSS e JavaScript.
+# calculadorasimples
+Trabalho da faculadade: calculadora simples usando HTML, CSS e JavaScript.
