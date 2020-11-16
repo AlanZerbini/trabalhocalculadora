@@ -1,0 +1,45 @@
+#cabeçalho {
+    background-color: darkslategray;
+    display: flex;  
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+    /* Fonte / Google Fonts */
+    font-family: 'Voltaire', sans-serif;
+}
+
+#formulario {
+    background-color: lightsteelblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+#select {
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#numeros {
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#resultado {
+    background-color: lightgray;
+    padding: 1em;
+    margin: 2em auto;
+    width: 17em;
+    border-radius: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
